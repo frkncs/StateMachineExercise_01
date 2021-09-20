@@ -1,2 +1,2 @@
-# StateMachineExercise_01
+# StateMachineExercise 01
 State Machine exercise project. Just basic player movement
